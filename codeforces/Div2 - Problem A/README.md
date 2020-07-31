@@ -1,12 +1,20 @@
-### Question:
+
+### Description
+* Problem A - Three Indices [https://codeforces.com/contest/1380/problem/A] <br>
+* Contest Link : https://codeforces.com/contest/1380  <br>
+* Youtube Video Explanation : https://www.youtube.com/watch?v=SRXDhea2b0A <br>
+
+
+### Question Explaination :
 For 3 indices i, j and k of an array, find any set of i, j and k where a[ j ] > a[ i ] and a[ j ] > a[ k ]
 
 Condition : i < j < k
 
-### Hint 
+### Hint :
 Finding any of the mountain peak
 
-### Expected Complexity 
+
+### Expected Complexity :
 Time Complexity  : O (n)
 
 ### One of the Solution :
